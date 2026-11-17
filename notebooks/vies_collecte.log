@@ -1,0 +1,399 @@
+2026-11-17 09:44:31,991 - INFO - === DÉBUT DE LA CAMPAGNE DE COLLECTE VIES ===
+2026-11-17 09:44:32,219 - INFO - Succès | Numéro: DK73224645 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.158s
+2026-11-17 09:44:33,979 - INFO - Succès | Numéro: PT787327239 | Validité: False | Erreur: MS_UNAVAILABLE | HTTP 200 | Temps: 0.247s
+2026-11-17 09:44:35,769 - INFO - Succès | Numéro: LU71043234 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.288s
+2026-11-17 09:44:38,160 - INFO - Succès | Numéro: SE.751298146001 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.889s
+2026-11-17 09:44:39,804 - INFO - Succès | Numéro: NL505862176B88 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.140s
+2026-11-17 09:44:51,372 - ERROR - Exception réseau | Numéro: DK61530843 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 09:44:53,001 - WARNING - Erreur HTTP | Numéro:   NL505862176B88  | Code: 400 | Temps: 0.128s
+2026-11-17 09:44:55,272 - INFO - Succès | Numéro: SE.314125231601 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.769s
+2026-11-17 09:45:06,850 - ERROR - Exception réseau | Numéro: DK48646344 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 09:45:08,494 - INFO - Succès | Numéro: BE1997422119 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.140s
+2026-11-17 09:45:11,386 - INFO - Succès | Numéro: FI.84564443 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.391s
+2026-11-17 09:45:15,959 - INFO - Succès | Numéro: NL767957817B57 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 3.070s
+2026-11-17 09:45:17,827 - INFO - Succès | Numéro: SE-353056663101 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.366s
+2026-11-17 09:45:19,439 - INFO - Succès | Numéro: SE1861093621016 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.110s
+2026-11-17 09:45:21,157 - INFO - Succès | Numéro: PT901258090 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.216s
+2026-11-17 09:45:22,777 - INFO - Succès | Numéro: NL962988030B37 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.117s
+2026-11-17 09:45:24,612 - INFO - Succès | Numéro: GB0749640348 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.331s
+2026-11-17 09:45:30,378 - INFO - Succès | Numéro: BE1628475293 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 4.264s
+2026-11-17 09:45:32,227 - INFO - Succès | Numéro: BE0605238824 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.347s
+2026-11-17 09:45:42,851 - INFO - Succès | Numéro: FR63432337650 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 9.121s
+2026-11-17 09:45:44,555 - INFO - Succès | Numéro: LU45829332 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.202s
+2026-11-17 09:45:46,163 - INFO - Succès | Numéro: PT615054116 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.107s
+2026-11-17 09:45:47,788 - WARNING - Erreur HTTP | Numéro:   FR58658124710  | Code: 400 | Temps: 0.122s
+2026-11-17 09:45:49,392 - INFO - Succès | Numéro: DK73224645 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.101s
+2026-11-17 09:46:00,960 - ERROR - Exception réseau | Numéro: DK43075659 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 09:46:02,594 - WARNING - Erreur HTTP | Numéro: - | Code: 404 | Temps: 0.132s
+2026-11-17 09:46:04,209 - INFO - Succès | Numéro: BE0311256964 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.113s
+2026-11-17 09:46:05,826 - INFO - Succès | Numéro: FR14760307373 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.115s
+2026-11-17 09:46:07,720 - INFO - Succès | Numéro: SE538701827701 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.392s
+2026-11-17 09:46:09,341 - INFO - Succès | Numéro: FR84248701951 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.120s
+2026-11-17 09:46:10,955 - WARNING - Erreur HTTP | Numéro:   PT682102423  | Code: 400 | Temps: 0.112s
+2026-11-17 09:46:13,385 - INFO - Succès | Numéro: FI77720866 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.928s
+2026-11-17 09:46:15,019 - INFO - Succès | Numéro: BE0232035282 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.130s
+2026-11-17 09:46:24,652 - INFO - Succès | Numéro: DK-72344081 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 8.130s
+2026-11-17 09:46:26,293 - INFO - Succès | Numéro: ZZ23140153 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.139s
+2026-11-17 09:46:28,122 - INFO - Succès | Numéro: PL5047493384 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.201s
+2026-11-17 09:46:29,781 - INFO - Succès | Numéro: FI4715363 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.153s
+2026-11-17 09:46:32,199 - WARNING - Erreur HTTP | Numéro:   FI26606369  | Code: 400 | Temps: 0.916s
+2026-11-17 09:46:33,842 - INFO - Succès | Numéro: LU6918091 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.140s
+2026-11-17 09:46:35,467 - INFO - Succès | Numéro: BE124376636 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.123s
+2026-11-17 09:46:38,492 - INFO - Succès | Numéro: BE02690132662 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.522s
+2026-11-17 09:46:41,071 - INFO - Succès | Numéro: PL4321225090 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.077s
+2026-11-17 09:46:43,402 - INFO - Succès | Numéro: SE119195863401 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.830s
+2026-11-17 09:46:49,155 - INFO - Succès | Numéro: BE1290480179 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 4.251s
+2026-11-17 09:46:51,003 - INFO - Succès | Numéro: PT544274741 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.347s
+2026-11-17 09:46:52,629 - INFO - Succès | Numéro: SE428761352801 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.124s
+2026-11-17 09:46:54,295 - WARNING - Erreur HTTP | Numéro:   SE011690000201  | Code: 400 | Temps: 0.164s
+2026-11-17 09:46:55,910 - WARNING - Erreur HTTP | Numéro:   NL413400931B49  | Code: 400 | Temps: 0.114s
+2026-11-17 09:46:57,729 - INFO - Succès | Numéro: PL 7963 612947 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.317s
+2026-11-17 09:47:01,362 - INFO - Succès | Numéro: NL.966200093B26 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.130s
+2026-11-17 09:47:02,989 - INFO - Succès | Numéro: SE593651753601 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.125s
+2026-11-17 09:47:04,620 - WARNING - Erreur HTTP | Numéro:   FR82738452940  | Code: 400 | Temps: 0.130s
+2026-11-17 09:47:06,256 - INFO - Succès | Numéro: LU66484248 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.134s
+2026-11-17 09:47:08,137 - INFO - Succès | Numéro: PL-4372432809 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.380s
+2026-11-17 09:47:09,872 - INFO - Succès | Numéro: LU84259936 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.233s
+2026-11-17 09:47:11,493 - INFO - Succès | Numéro: BE0576561070 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.119s
+2026-11-17 09:47:13,138 - INFO - Succès | Numéro: NLH28387650B63 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.143s
+2026-11-17 09:47:23,372 - INFO - Succès | Numéro: FR.76418167474 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 8.732s
+2026-11-17 09:47:25,002 - INFO - Succès | Numéro: FR02831068190 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.128s
+2026-11-17 09:47:26,759 - INFO - Succès | Numéro: DK53927279 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.255s
+2026-11-17 09:47:28,595 - INFO - Succès | Numéro: PT710932251 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.334s
+2026-11-17 09:47:30,220 - INFO - Succès | Numéro: PL97668891080 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.123s
+2026-11-17 09:47:31,990 - INFO - Succès | Numéro: PL5102708610 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.268s
+2026-11-17 09:47:33,606 - WARNING - Erreur HTTP | Numéro:   DK91970813  | Code: 400 | Temps: 0.115s
+2026-11-17 09:47:35,246 - INFO - Succès | Numéro: BE188076813 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.138s
+2026-11-17 09:47:36,883 - INFO - Succès | Numéro: NL150819395B54 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.130s
+2026-11-17 09:47:38,727 - INFO - Succès | Numéro: PT763047058 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.340s
+2026-11-17 09:47:40,384 - INFO - Succès | Numéro: FI17O38139 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.155s
+2026-11-17 09:47:42,029 - INFO - Succès | Numéro: GB17652291 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.143s
+2026-11-17 09:47:45,535 - INFO - Succès | Numéro: NL 7854 27788B39 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.002s
+2026-11-17 09:47:47,171 - INFO - Succès | Numéro: PT8G7770771 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.132s
+2026-11-17 09:47:48,869 - INFO - Succès | Numéro: DK40573564 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.193s
+2026-11-17 09:47:50,502 - INFO - Succès | Numéro: DK 0213 2524 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.127s
+2026-11-17 09:47:53,005 - INFO - Succès | Numéro: FI99607012 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.000s
+2026-11-17 09:47:54,757 - INFO - Succès | Numéro: IT97133603924 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.250s
+2026-11-17 09:47:56,628 - INFO - Succès | Numéro: PT306264951 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.369s
+2026-11-17 09:47:58,740 - INFO - Succès | Numéro: SE-976875634901 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.610s
+2026-11-17 09:48:00,378 - WARNING - Erreur HTTP | Numéro:   DK01911376  | Code: 400 | Temps: 0.136s
+2026-11-17 09:48:06,122 - INFO - Succès | Numéro: BE1541337423 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 4.240s
+2026-11-17 09:48:07,756 - INFO - Succès | Numéro: UK227979060 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.132s
+2026-11-17 09:48:09,376 - INFO - Succès | Numéro: FI38141462 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.118s
+2026-11-17 09:48:11,022 - INFO - Succès | Numéro: BE183858570 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.144s
+2026-11-17 09:48:12,697 - INFO - Succès | Numéro: BE1605747896 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.172s
+2026-11-17 09:48:14,587 - INFO - Succès | Numéro: PL9512013884 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.386s
+2026-11-17 09:48:18,378 - INFO - Succès | Numéro: NL 2552 60155B67 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.286s
+2026-11-17 09:48:20,223 - INFO - Succès | Numéro: PT440557399 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.342s
+2026-11-17 09:48:21,871 - INFO - Succès | Numéro: SE493462906001 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.146s
+2026-11-17 09:48:23,678 - INFO - Succès | Numéro: PL1609015779 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.304s
+2026-11-17 09:48:25,344 - INFO - Succès | Numéro: BE0359339468 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.147s
+2026-11-17 09:48:27,661 - INFO - Succès | Numéro: PT293013730 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.816s
+2026-11-17 09:48:29,678 - INFO - Succès | Numéro: IT62989143151 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.515s
+2026-11-17 09:48:41,283 - ERROR - Exception réseau | Numéro: DK.88753801 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 09:48:43,303 - INFO - Succès | Numéro: SE324822512401 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.516s
+2026-11-17 09:48:44,937 - INFO - Succès | Numéro: IT60495506945 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.132s
+2026-11-17 09:48:46,562 - WARNING - Erreur HTTP | Numéro:   DK39736861  | Code: 400 | Temps: 0.122s
+2026-11-17 09:48:48,783 - INFO - Succès | Numéro: FI70957529 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.720s
+2026-11-17 09:48:50,630 - INFO - Succès | Numéro: PT116096764 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.341s
+2026-11-17 09:48:52,478 - INFO - Succès | Numéro: LU75426276 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.337s
+2026-11-17 09:48:54,113 - INFO - Succès | Numéro: FR27552032534 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.131s
+2026-11-17 09:48:55,763 - INFO - Succès | Numéro: IT 5368 0520532 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.148s
+2026-11-17 09:48:57,656 - INFO - Succès | Numéro: LU83327153 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.390s
+2026-11-17 09:48:59,369 - INFO - Succès | Numéro: FR53917821806 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.210s
+2026-11-17 09:49:00,990 - INFO - Succès | Numéro: BE-0982344140 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.119s
+2026-11-17 09:49:02,717 - INFO - Succès | Numéro: LU 9010 0861 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.225s
+2026-11-17 09:49:04,522 - INFO - Succès | Numéro: PT569236762 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.303s
+2026-11-17 09:49:07,326 - INFO - Succès | Numéro: nl785427788b39 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.302s
+2026-11-17 09:49:08,958 - INFO - Succès | Numéro: FR65959957042 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.129s
+2026-11-17 09:49:10,787 - INFO - Succès | Numéro: PT551278056 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.327s
+2026-11-17 09:49:12,423 - INFO - Succès | Numéro: NL1587699M6B82 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.134s
+2026-11-17 09:49:14,858 - INFO - Succès | Numéro: SE-128356938001 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.934s
+2026-11-17 09:49:16,513 - INFO - Succès | Numéro: FI62150298 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.151s
+2026-11-17 09:49:18,144 - INFO - Succès | Numéro: IT 5368 0520532 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.128s
+2026-11-17 09:49:19,773 - INFO - Succès | Numéro: BE 1593 163533 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.126s
+2026-11-17 09:49:31,356 - ERROR - Exception réseau | Numéro: DK97604142 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 09:49:33,138 - INFO - Succès | Numéro: LU 4449 8372 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.278s
+2026-11-17 09:49:44,724 - ERROR - Exception réseau | Numéro: DK13449643 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 09:49:46,376 - INFO - Succès | Numéro: SE980721039601 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.145s
+2026-11-17 09:49:47,980 - INFO - Succès | Numéro: 58560322811 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.102s
+2026-11-17 09:49:57,498 - INFO - Succès | Numéro: FR34494103231 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 8.016s
+2026-11-17 09:50:00,258 - INFO - Succès | Numéro: nl378068659b27 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.257s
+2026-11-17 09:50:03,215 - INFO - Succès | Numéro: NL917547317B75 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.455s
+2026-11-17 09:50:04,832 - INFO - Succès | Numéro: IT64902006515 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.114s
+2026-11-17 09:50:15,690 - INFO - Succès | Numéro: DK70196921 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 9.354s
+2026-11-17 09:50:17,537 - INFO - Succès | Numéro: PL7041416675 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.343s
+2026-11-17 09:50:19,159 - INFO - Succès | Numéro: PT87482735J | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.118s
+2026-11-17 09:50:20,780 - INFO - Succès | Numéro: IT35478856822 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.120s
+2026-11-17 09:50:22,433 - WARNING - Erreur HTTP | Numéro:   FI76761092  | Code: 400 | Temps: 0.150s
+2026-11-17 09:50:24,215 - INFO - Succès | Numéro: FR568210454899 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.279s
+2026-11-17 09:50:25,999 - INFO - Succès | Numéro: BE0500730962 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.278s
+2026-11-17 09:50:27,618 - WARNING - Erreur HTTP | Numéro:   PT493659684  | Code: 400 | Temps: 0.115s
+2026-11-17 09:50:29,754 - INFO - Succès | Numéro: FI30917645 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.630s
+2026-11-17 09:50:31,366 - INFO - Succès | Numéro: DK1521898 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.109s
+2026-11-17 09:50:32,979 - INFO - Succès | Numéro: 396904956B68 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.110s
+2026-11-17 09:50:34,612 - INFO - Succès | Numéro: DK5962G374 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.120s
+2026-11-17 09:50:36,503 - INFO - Succès | Numéro: PT301044317 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.389s
+2026-11-17 09:50:38,493 - INFO - Succès | Numéro: PL.5102708610 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.487s
+2026-11-17 09:50:40,111 - INFO - Succès | Numéro: DK291446999 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.116s
+2026-11-17 09:50:41,804 - INFO - Succès | Numéro: LU12761174 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.190s
+2026-11-17 09:50:53,378 - ERROR - Exception réseau | Numéro: DK77510710 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 09:50:55,058 - INFO - Succès | Numéro: LU50491841 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.178s
+2026-11-17 09:50:58,977 - INFO - Succès | Numéro: NL027373964B85 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.412s
+2026-11-17 09:51:00,867 - INFO - Succès | Numéro: FI 4006 8050 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.388s
+2026-11-17 09:51:02,706 - INFO - Succès | Numéro: FI76910697 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.334s
+2026-11-17 09:51:04,546 - INFO - Succès | Numéro: UK190500864B18 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.336s
+2026-11-17 09:51:06,322 - INFO - Succès | Numéro: FR88920415533 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.275s
+2026-11-17 09:51:07,946 - INFO - Succès | Numéro: it75599126341 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.123s
+2026-11-17 09:51:09,574 - INFO - Succès | Numéro: NL134317312B81 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.125s
+2026-11-17 09:51:11,197 - INFO - Succès | Numéro: FR96778772967 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.121s
+2026-11-17 09:51:13,040 - INFO - Succès | Numéro: PT653055021 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.340s
+2026-11-17 09:51:14,692 - INFO - Succès | Numéro: ZZ06520766 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.147s
+2026-11-17 09:51:16,346 - INFO - Succès | Numéro: BE0187972912 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.149s
+2026-11-17 09:51:17,976 - INFO - Succès | Numéro: IT43831226378 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.128s
+2026-11-17 09:51:19,635 - INFO - Succès | Numéro: SE99296861790 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.155s
+2026-11-17 09:51:21,322 - INFO - Succès | Numéro: BE-1541337423 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.182s
+2026-11-17 09:51:23,063 - INFO - Succès | Numéro: LU83019402 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.237s
+2026-11-17 09:51:24,747 - INFO - Succès | Numéro: BE0992862406 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.181s
+2026-11-17 09:51:26,547 - INFO - Succès | Numéro: PT755024877 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.298s
+2026-11-17 09:51:28,645 - INFO - Succès | Numéro: PT327020482 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.594s
+2026-11-17 09:51:36,020 - INFO - Succès | Numéro: BE0761440201 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 5.871s
+2026-11-17 09:51:47,623 - ERROR - Exception réseau | Numéro: dk65315092 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 09:51:49,281 - INFO - Succès | Numéro: 38486825359 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.155s
+2026-11-17 09:51:51,308 - INFO - Succès | Numéro: FI99952131 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.523s
+2026-11-17 09:51:54,974 - INFO - Succès | Numéro: SE.923117665301 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.165s
+2026-11-17 09:51:56,573 - INFO - Succès | Numéro: FRH3842670445 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.097s
+2026-11-17 09:51:58,180 - INFO - Succès | Numéro: DK87G17730 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.104s
+2026-11-17 09:51:59,909 - INFO - Succès | Numéro: DK663574817 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.227s
+2026-11-17 09:52:01,521 - INFO - Succès | Numéro: IT1890180302 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.109s
+2026-11-17 09:52:03,125 - INFO - Succès | Numéro: FR-38430871616 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.102s
+2026-11-17 09:52:14,701 - ERROR - Exception réseau | Numéro: DK.29918767 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 09:52:16,304 - WARNING - Erreur HTTP | Numéro:   IT80179767894  | Code: 400 | Temps: 0.101s
+2026-11-17 09:52:17,911 - INFO - Succès | Numéro: FR30907512024 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.106s
+2026-11-17 09:52:19,691 - INFO - Succès | Numéro: pl5540309330 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.278s
+2026-11-17 09:52:21,952 - INFO - Succès | Numéro: SE394975617901 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.759s
+2026-11-17 09:52:25,338 - INFO - Succès | Numéro: NL-689141166B02 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.883s
+2026-11-17 09:52:26,942 - INFO - Succès | Numéro: DK41917126 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.102s
+2026-11-17 09:52:28,702 - INFO - Succès | Numéro: PL2996896510 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.258s
+2026-11-17 09:52:30,408 - INFO - Succès | Numéro: FR39172019809 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.204s
+2026-11-17 09:52:32,152 - INFO - Succès | Numéro: PL 5279 293795 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.242s
+2026-11-17 09:52:33,788 - INFO - Succès | Numéro: 33139885439 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.133s
+2026-11-17 09:52:35,411 - INFO - Succès | Numéro: IT 7249 2360010 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.120s
+2026-11-17 09:52:37,018 - INFO - Succès | Numéro: UK558680011 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.105s
+2026-11-17 09:52:38,638 - INFO - Succès | Numéro: SE9682668794H1 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.118s
+2026-11-17 09:52:40,510 - INFO - Succès | Numéro: SE334202255901 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.370s
+2026-11-17 09:52:42,227 - INFO - Succès | Numéro: LU62557886 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.215s
+2026-11-17 09:52:43,842 - INFO - Succès | Numéro: BE0559538362 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.113s
+2026-11-17 09:52:45,640 - INFO - Succès | Numéro: FI04531570 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.295s
+2026-11-17 09:52:47,341 - INFO - Succès | Numéro: 88838354509 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.199s
+2026-11-17 09:52:48,964 - INFO - Succès | Numéro: FR86227468840 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.122s
+2026-11-17 09:52:50,659 - INFO - Succès | Numéro: PL599561905 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.193s
+2026-11-17 09:52:52,265 - INFO - Succès | Numéro: DK03190056 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.105s
+2026-11-17 09:52:53,887 - INFO - Succès | Numéro: PL93184850G3 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.120s
+2026-11-17 09:52:55,528 - INFO - Succès | Numéro: IT64184964091 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.138s
+2026-11-17 09:52:57,169 - INFO - Succès | Numéro: 107327005801 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.132s
+2026-11-17 09:52:59,180 - INFO - Succès | Numéro: PT411011570 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.509s
+2026-11-17 09:53:00,940 - INFO - Succès | Numéro: IT64177915343 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.257s
+2026-11-17 09:53:04,830 - INFO - Succès | Numéro: NL599032777B33 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.389s
+2026-11-17 09:53:41,447 - INFO - === DÉBUT DE LA CAMPAGNE DE COLLECTE VIES ===
+2026-11-17 09:53:41,583 - INFO - Succès | Numéro: DK73224645 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.112s
+2026-11-17 09:53:43,612 - INFO - Succès | Numéro: PT787327239 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.528s
+2026-11-17 09:53:45,321 - INFO - Succès | Numéro: LU71043234 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.207s
+2026-11-17 09:53:47,184 - INFO - Succès | Numéro: SE.751298146001 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.361s
+2026-11-17 09:53:48,794 - INFO - Succès | Numéro: NL505862176B88 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.107s
+2026-11-17 09:53:59,520 - INFO - Succès | Numéro: DK61530843 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 9.224s
+2026-11-17 09:54:01,131 - WARNING - Erreur HTTP | Numéro:   NL505862176B88  | Code: 400 | Temps: 0.109s
+2026-11-17 09:54:03,064 - INFO - Succès | Numéro: SE.314125231601 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.431s
+2026-11-17 09:54:12,807 - INFO - Succès | Numéro: DK48646344 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 8.241s
+2026-11-17 09:54:14,424 - INFO - Succès | Numéro: BE1997422119 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.115s
+2026-11-17 09:54:16,290 - INFO - Succès | Numéro: FI.84564443 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.364s
+2026-11-17 09:54:20,364 - INFO - Succès | Numéro: NL767957817B57 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.573s
+2026-11-17 09:54:23,219 - INFO - Succès | Numéro: SE-353056663101 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.353s
+2026-11-17 09:54:24,834 - INFO - Succès | Numéro: SE1861093621016 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.113s
+2026-11-17 09:54:26,443 - INFO - Succès | Numéro: PT901258090 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.106s
+2026-11-17 09:54:29,877 - INFO - Succès | Numéro: NL962988030B37 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.932s
+2026-11-17 09:54:31,489 - INFO - Succès | Numéro: GB0749640348 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.110s
+2026-11-17 09:54:37,777 - INFO - Succès | Numéro: BE1628475293 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 4.786s
+2026-11-17 09:54:39,383 - INFO - Succès | Numéro: BE0605238824 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.103s
+2026-11-17 09:54:49,738 - INFO - Succès | Numéro: FR63432337650 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 8.853s
+2026-11-17 09:54:51,491 - INFO - Succès | Numéro: LU45829332 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.247s
+2026-11-17 09:54:53,119 - INFO - Succès | Numéro: PT615054116 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.127s
+2026-11-17 09:54:54,735 - WARNING - Erreur HTTP | Numéro:   FR58658124710  | Code: 400 | Temps: 0.113s
+2026-11-17 09:54:56,375 - INFO - Succès | Numéro: DK73224645 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.138s
+2026-11-17 09:55:06,378 - INFO - Succès | Numéro: DK43075659 | Validité: True | Erreur: VALID | HTTP 200 | Temps: 8.502s
+2026-11-17 09:55:08,025 - WARNING - Erreur HTTP | Numéro: - | Code: 404 | Temps: 0.144s
+2026-11-17 09:55:14,550 - INFO - Succès | Numéro: BE0311256964 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 5.024s
+2026-11-17 09:55:16,169 - INFO - Succès | Numéro: FR14760307373 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.117s
+2026-11-17 09:55:18,468 - INFO - Succès | Numéro: SE538701827701 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.797s
+2026-11-17 09:55:20,094 - INFO - Succès | Numéro: FR84248701951 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.124s
+2026-11-17 09:55:21,817 - WARNING - Erreur HTTP | Numéro:   PT682102423  | Code: 400 | Temps: 0.221s
+2026-11-17 09:55:23,951 - INFO - Succès | Numéro: FI77720866 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.633s
+2026-11-17 09:55:25,575 - INFO - Succès | Numéro: BE0232035282 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.122s
+2026-11-17 09:55:37,141 - ERROR - Exception réseau | Numéro: DK-72344081 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 09:55:38,765 - INFO - Succès | Numéro: ZZ23140153 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.122s
+2026-11-17 09:55:40,385 - INFO - Succès | Numéro: PL5047493384 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.119s
+2026-11-17 09:55:42,010 - INFO - Succès | Numéro: FI4715363 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.123s
+2026-11-17 09:55:43,624 - WARNING - Erreur HTTP | Numéro:   FI26606369  | Code: 400 | Temps: 0.112s
+2026-11-17 09:55:45,229 - INFO - Succès | Numéro: LU6918091 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.103s
+2026-11-17 09:55:46,833 - INFO - Succès | Numéro: BE124376636 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.102s
+2026-11-17 09:55:48,440 - INFO - Succès | Numéro: BE02690132662 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.106s
+2026-11-17 09:55:50,045 - INFO - Succès | Numéro: PL4321225090 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.104s
+2026-11-17 09:55:52,176 - INFO - Succès | Numéro: SE119195863401 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.628s
+2026-11-17 09:55:58,024 - INFO - Succès | Numéro: BE1290480179 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 4.347s
+2026-11-17 09:55:59,777 - INFO - Succès | Numéro: PT544274741 | Validité: False | Erreur: MS_UNAVAILABLE | HTTP 200 | Temps: 0.251s
+2026-11-17 09:56:01,415 - INFO - Succès | Numéro: SE428761352801 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.136s
+2026-11-17 09:56:03,038 - WARNING - Erreur HTTP | Numéro:   SE011690000201  | Code: 400 | Temps: 0.121s
+2026-11-17 09:56:04,672 - WARNING - Erreur HTTP | Numéro:   NL413400931B49  | Code: 400 | Temps: 0.131s
+2026-11-17 09:56:06,717 - INFO - Succès | Numéro: PL 7963 612947 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.542s
+2026-11-17 09:56:10,361 - INFO - Succès | Numéro: NL.966200093B26 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.143s
+2026-11-17 09:56:12,083 - INFO - Succès | Numéro: SE593651753601 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.220s
+2026-11-17 09:56:13,968 - WARNING - Erreur HTTP | Numéro:   FR82738452940  | Code: 400 | Temps: 0.384s
+2026-11-17 09:56:15,604 - INFO - Succès | Numéro: LU66484248 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.134s
+2026-11-17 09:56:17,466 - INFO - Succès | Numéro: PL-4372432809 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.360s
+2026-11-17 09:56:19,977 - INFO - Succès | Numéro: LU84259936 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.010s
+2026-11-17 09:56:21,616 - INFO - Succès | Numéro: BE0576561070 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.137s
+2026-11-17 09:56:23,251 - INFO - Succès | Numéro: NLH28387650B63 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.134s
+2026-11-17 09:56:24,877 - INFO - Succès | Numéro: FR.76418167474 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.124s
+2026-11-17 09:56:26,508 - INFO - Succès | Numéro: FR02831068190 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.129s
+2026-11-17 09:56:28,165 - INFO - Succès | Numéro: DK53927279 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.154s
+2026-11-17 09:56:32,029 - INFO - Succès | Numéro: PT710932251 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.362s
+2026-11-17 09:56:34,862 - INFO - Succès | Numéro: PL97668891080 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.332s
+2026-11-17 09:56:36,678 - INFO - Succès | Numéro: PL5102708610 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.309s
+2026-11-17 09:56:38,670 - WARNING - Erreur HTTP | Numéro:   DK91970813  | Code: 400 | Temps: 0.490s
+2026-11-17 09:56:41,473 - INFO - Succès | Numéro: BE188076813 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.297s
+2026-11-17 09:56:43,766 - INFO - Succès | Numéro: NL150819395B54 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.791s
+2026-11-17 09:56:48,511 - INFO - Succès | Numéro: PT763047058 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 3.243s
+2026-11-17 09:56:50,133 - INFO - Succès | Numéro: FI17O38139 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.120s
+2026-11-17 09:56:51,765 - INFO - Succès | Numéro: GB17652291 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.130s
+2026-11-17 09:56:55,984 - INFO - Succès | Numéro: NL 7854 27788B39 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.717s
+2026-11-17 09:56:57,638 - INFO - Succès | Numéro: PT8G7770771 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.152s
+2026-11-17 09:56:59,293 - INFO - Succès | Numéro: DK40573564 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.150s
+2026-11-17 09:57:02,284 - INFO - Succès | Numéro: DK 0213 2524 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.488s
+2026-11-17 09:57:05,686 - INFO - Succès | Numéro: FI99607012 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.901s
+2026-11-17 09:57:07,996 - INFO - Succès | Numéro: IT97133603924 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.803s
+2026-11-17 09:57:11,223 - INFO - Succès | Numéro: PT306264951 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.725s
+2026-11-17 09:57:13,113 - INFO - Succès | Numéro: SE-976875634901 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.387s
+2026-11-17 09:57:14,747 - WARNING - Erreur HTTP | Numéro:   DK01911376  | Code: 400 | Temps: 0.132s
+2026-11-17 09:57:16,361 - INFO - Succès | Numéro: BE1541337423 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.112s
+2026-11-17 09:57:17,978 - INFO - Succès | Numéro: UK227979060 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.115s
+2026-11-17 09:57:19,634 - INFO - Succès | Numéro: FI38141462 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.153s
+2026-11-17 09:57:21,359 - INFO - Succès | Numéro: BE183858570 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.223s
+2026-11-17 09:57:23,162 - INFO - Succès | Numéro: BE1605747896 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.301s
+2026-11-17 09:57:27,476 - INFO - Succès | Numéro: PL9512013884 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.813s
+2026-11-17 09:57:31,897 - INFO - Succès | Numéro: NL 2552 60155B67 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.919s
+2026-11-17 09:57:35,029 - INFO - Succès | Numéro: PT440557399 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.628s
+2026-11-17 09:57:37,650 - INFO - Succès | Numéro: SE493462906001 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.120s
+2026-11-17 09:57:40,326 - INFO - Succès | Numéro: PL1609015779 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 1.175s
+2026-11-17 09:57:41,961 - INFO - Succès | Numéro: BE0359339468 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.132s
+2026-11-17 09:57:44,292 - INFO - Succès | Numéro: PT293013730 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.817s
+2026-11-17 09:57:46,534 - INFO - Succès | Numéro: IT62989143151 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.740s
+2026-11-17 09:57:55,469 - INFO - Succès | Numéro: DK.88753801 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 7.433s
+2026-11-17 09:57:57,327 - INFO - Succès | Numéro: SE324822512401 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.355s
+2026-11-17 09:57:58,948 - INFO - Succès | Numéro: IT60495506945 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.119s
+2026-11-17 09:58:00,566 - WARNING - Erreur HTTP | Numéro:   DK39736861  | Code: 400 | Temps: 0.116s
+2026-11-17 09:58:02,509 - INFO - Succès | Numéro: FI70957529 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.439s
+2026-11-17 09:58:06,183 - INFO - Succès | Numéro: PT116096764 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.172s
+2026-11-17 09:58:09,373 - INFO - Succès | Numéro: LU75426276 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.688s
+2026-11-17 09:58:12,031 - INFO - Succès | Numéro: FR27552032534 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 1.155s
+2026-11-17 09:58:14,948 - INFO - Succès | Numéro: IT 5368 0520532 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 1.416s
+2026-11-17 09:58:17,778 - INFO - Succès | Numéro: LU83327153 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.328s
+2026-11-17 09:58:27,314 - INFO - Succès | Numéro: FR53917821806 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 8.034s
+2026-11-17 09:58:29,807 - INFO - Succès | Numéro: BE-0982344140 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.991s
+2026-11-17 09:58:31,509 - INFO - Succès | Numéro: LU 9010 0861 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.199s
+2026-11-17 09:58:33,325 - INFO - Succès | Numéro: PT569236762 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.315s
+2026-11-17 09:58:37,609 - INFO - Succès | Numéro: nl785427788b39 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.782s
+2026-11-17 09:58:40,116 - INFO - Succès | Numéro: FR65959957042 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.004s
+2026-11-17 09:58:43,366 - INFO - Succès | Numéro: PT551278056 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.749s
+2026-11-17 09:58:44,998 - INFO - Succès | Numéro: NL1587699M6B82 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.128s
+2026-11-17 09:58:48,145 - INFO - Succès | Numéro: SE-128356938001 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.645s
+2026-11-17 09:58:50,191 - INFO - Succès | Numéro: FI62150298 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.544s
+2026-11-17 09:58:52,182 - INFO - Succès | Numéro: IT 5368 0520532 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.488s
+2026-11-17 09:58:58,405 - INFO - Succès | Numéro: BE 1593 163533 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 4.721s
+2026-11-17 09:59:09,981 - ERROR - Exception réseau | Numéro: DK97604142 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 09:59:12,387 - INFO - Succès | Numéro: LU 4449 8372 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.904s
+2026-11-17 09:59:23,115 - INFO - Succès | Numéro: DK13449643 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 9.226s
+2026-11-17 09:59:25,531 - INFO - Succès | Numéro: SE980721039601 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.914s
+2026-11-17 09:59:28,223 - INFO - Succès | Numéro: 58560322811 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 1.191s
+2026-11-17 09:59:30,895 - INFO - Succès | Numéro: FR34494103231 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 1.170s
+2026-11-17 09:59:34,628 - INFO - Succès | Numéro: nl378068659b27 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.231s
+2026-11-17 09:59:39,247 - INFO - Succès | Numéro: NL917547317B75 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 3.117s
+2026-11-17 09:59:40,863 - INFO - Succès | Numéro: IT64902006515 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.114s
+2026-11-17 09:59:48,585 - INFO - Succès | Numéro: DK70196921 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 6.221s
+2026-11-17 09:59:51,547 - INFO - Succès | Numéro: PL7041416675 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.460s
+2026-11-17 09:59:53,200 - INFO - Succès | Numéro: PT87482735J | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.151s
+2026-11-17 09:59:56,368 - INFO - Succès | Numéro: IT35478856822 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.667s
+2026-11-17 09:59:59,292 - WARNING - Erreur HTTP | Numéro:   FI76761092  | Code: 400 | Temps: 1.422s
+2026-11-17 10:00:01,071 - INFO - Succès | Numéro: FR568210454899 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.275s
+2026-11-17 10:00:03,884 - INFO - Succès | Numéro: BE0500730962 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.311s
+2026-11-17 10:00:06,219 - WARNING - Erreur HTTP | Numéro:   PT493659684  | Code: 400 | Temps: 0.833s
+2026-11-17 10:00:10,251 - INFO - Succès | Numéro: FI30917645 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.531s
+2026-11-17 10:00:11,867 - INFO - Succès | Numéro: DK1521898 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.114s
+2026-11-17 10:00:16,098 - INFO - Succès | Numéro: 396904956B68 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 2.730s
+2026-11-17 10:00:19,476 - INFO - Succès | Numéro: DK5962G374 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.877s
+2026-11-17 10:00:22,663 - INFO - Succès | Numéro: PT301044317 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.684s
+2026-11-17 10:00:26,020 - INFO - Succès | Numéro: PL.5102708610 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.855s
+2026-11-17 10:00:28,686 - INFO - Succès | Numéro: DK291446999 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.164s
+2026-11-17 10:00:31,012 - INFO - Succès | Numéro: LU12761174 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.824s
+2026-11-17 10:00:42,580 - ERROR - Exception réseau | Numéro: DK77510710 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 10:00:44,795 - INFO - Succès | Numéro: LU50491841 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.712s
+2026-11-17 10:00:46,809 - INFO - Succès | Numéro: NL027373964B85 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.512s
+2026-11-17 10:00:49,048 - INFO - Succès | Numéro: FI 4006 8050 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.737s
+2026-11-17 10:00:50,708 - INFO - Succès | Numéro: FI76910697 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.159s
+2026-11-17 10:00:52,330 - INFO - Succès | Numéro: UK190500864B18 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.118s
+2026-11-17 10:00:53,961 - INFO - Succès | Numéro: FR88920415533 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.129s
+2026-11-17 10:00:55,567 - INFO - Succès | Numéro: it75599126341 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.103s
+2026-11-17 10:00:57,179 - INFO - Succès | Numéro: NL134317312B81 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.111s
+2026-11-17 10:00:58,971 - INFO - Succès | Numéro: FR96778772967 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.290s
+2026-11-17 10:01:00,921 - INFO - Succès | Numéro: PT653055021 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.448s
+2026-11-17 10:01:02,552 - INFO - Succès | Numéro: ZZ06520766 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.129s
+2026-11-17 10:01:04,159 - INFO - Succès | Numéro: BE0187972912 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.106s
+2026-11-17 10:01:05,781 - INFO - Succès | Numéro: IT43831226378 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.119s
+2026-11-17 10:01:07,398 - INFO - Succès | Numéro: SE99296861790 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.114s
+2026-11-17 10:01:13,744 - INFO - Succès | Numéro: BE-1541337423 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 4.844s
+2026-11-17 10:01:15,497 - INFO - Succès | Numéro: LU83019402 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.251s
+2026-11-17 10:01:17,109 - INFO - Succès | Numéro: BE0992862406 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.111s
+2026-11-17 10:01:18,901 - INFO - Succès | Numéro: PT755024877 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.290s
+2026-11-17 10:01:20,683 - INFO - Succès | Numéro: PT327020482 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.280s
+2026-11-17 10:01:22,287 - INFO - Succès | Numéro: BE0761440201 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.103s
+2026-11-17 10:01:23,977 - INFO - Succès | Numéro: dk65315092 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.188s
+2026-11-17 10:01:25,599 - INFO - Succès | Numéro: 38486825359 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.120s
+2026-11-17 10:01:27,534 - INFO - Succès | Numéro: FI99952131 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.433s
+2026-11-17 10:01:29,842 - INFO - Succès | Numéro: SE.923117665301 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.806s
+2026-11-17 10:01:31,831 - INFO - Succès | Numéro: FRH3842670445 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.487s
+2026-11-17 10:01:33,432 - INFO - Succès | Numéro: DK87G17730 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.099s
+2026-11-17 10:01:35,466 - INFO - Succès | Numéro: DK663574817 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.532s
+2026-11-17 10:01:37,224 - INFO - Succès | Numéro: IT1890180302 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.257s
+2026-11-17 10:01:39,238 - INFO - Succès | Numéro: FR-38430871616 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.512s
+2026-11-17 10:01:50,854 - ERROR - Exception réseau | Numéro: DK.29918767 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 10:01:52,465 - WARNING - Erreur HTTP | Numéro:   IT80179767894  | Code: 400 | Temps: 0.109s
+2026-11-17 10:01:54,173 - INFO - Succès | Numéro: FR30907512024 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.206s
+2026-11-17 10:01:56,044 - INFO - Succès | Numéro: pl5540309330 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.369s
+2026-11-17 10:01:58,769 - INFO - Succès | Numéro: SE394975617901 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.224s
+2026-11-17 10:02:00,381 - INFO - Succès | Numéro: NL-689141166B02 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.110s
+2026-11-17 10:02:02,186 - INFO - Succès | Numéro: DK41917126 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.303s
+2026-11-17 10:02:03,884 - INFO - Succès | Numéro: PL2996896510 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.195s
+2026-11-17 10:02:05,718 - INFO - Succès | Numéro: FR39172019809 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.332s
+2026-11-17 10:02:07,726 - INFO - Succès | Numéro: PL 5279 293795 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.507s
+2026-11-17 10:02:09,337 - INFO - Succès | Numéro: 33139885439 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.107s
+2026-11-17 10:02:11,085 - INFO - Succès | Numéro: IT 7249 2360010 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.245s
+2026-11-17 10:02:13,198 - INFO - Succès | Numéro: UK558680011 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.611s
+2026-11-17 10:02:14,828 - INFO - Succès | Numéro: SE9682668794H1 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.127s
+2026-11-17 10:02:17,966 - INFO - Succès | Numéro: SE334202255901 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.635s
+2026-11-17 10:02:19,695 - INFO - Succès | Numéro: LU62557886 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.226s
+2026-11-17 10:02:25,788 - INFO - Succès | Numéro: BE0559538362 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 4.590s
+2026-11-17 10:02:27,831 - INFO - Succès | Numéro: FI04531570 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.542s
+2026-11-17 10:02:29,481 - INFO - Succès | Numéro: 88838354509 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.148s
+2026-11-17 10:02:31,099 - INFO - Succès | Numéro: FR86227468840 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 0.116s
+2026-11-17 10:02:32,739 - INFO - Succès | Numéro: PL599561905 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.138s
+2026-11-17 10:02:36,095 - INFO - Succès | Numéro: DK03190056 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.854s
+2026-11-17 10:02:37,711 - INFO - Succès | Numéro: PL93184850G3 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 0.114s
+2026-11-17 10:02:40,733 - INFO - Succès | Numéro: IT64184964091 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.520s
+2026-11-17 10:02:42,363 - INFO - Succès | Numéro: 107327005801 | Validité: False | Erreur: INVALID_INPUT | HTTP 200 | Temps: 0.128s
+2026-11-17 10:02:45,180 - INFO - Succès | Numéro: PT411011570 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.316s
+2026-11-17 10:02:48,009 - INFO - Succès | Numéro: IT64177915343 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 1.327s
+2026-11-17 10:02:51,558 - INFO - Succès | Numéro: NL599032777B33 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.046s
+2026-11-17 10:03:03,135 - ERROR - Exception réseau | Numéro: DK46441575 | Erreur: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)
+2026-11-17 10:03:07,528 - INFO - Succès | Numéro: BE-183858570 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 2.891s
+2026-11-17 10:03:11,685 - INFO - Succès | Numéro: FR89380129866 | Validité: False | Erreur: MS_MAX_CONCURRENT_REQ | HTTP 200 | Temps: 2.654s
+2026-11-17 10:03:17,369 - INFO - Succès | Numéro: NL689759071B19 | Validité: False | Erreur: INVALID | HTTP 200 | Temps: 4.180s
+2026-11-17 10:03:18,884 - INFO - === FIN DE LA CAMPAGNE : Résultats sauvegardés ===
